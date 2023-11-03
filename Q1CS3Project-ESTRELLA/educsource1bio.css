@@ -1,0 +1,41 @@
+body {
+    background-image: url('bappcnature.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Segoe UI';
+    margin: 10px;
+    color: white;
+}
+.header {
+    padding: 1px;
+    text-align: left;
+    background: white;
+    color: black;
+    font-size: 10px;
+}
+.content {
+    padding:20px;
+    text-align: left;
+    background: rgba(12, 103, 85, 0.5);
+    color: white;
+    font-size: 15px;
+    border-width: 15px;
+}
+hr {
+    height:3px;
+    border-width:0;
+    background-color: white;
+}
+.button {
+  border: white;
+  color: white;
+  padding: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+.button4 {background: none; border: 2px solid white}
